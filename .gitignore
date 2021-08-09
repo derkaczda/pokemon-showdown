@@ -1,5 +1,7 @@
 /config/*
 !/config/formats.ts
+!/config/config.js
+!/config/usergroups.csv
 /logs/*
 /test/modlogs
 /test/replays/*.html
